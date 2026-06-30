@@ -3,8 +3,7 @@
 Este proyecto representa la arquitectura de microservicios desarrollada para la transformación digital de **EcoMarket SPA**, una empresa chilena dedicada a la venta de productos ecológicos y sostenibles. La solución aborda los problemas de rendimiento y disponibilidad de la antigua aplicación monolítica mediante la separación de responsabilidades en **10 microservicios independientes**.
 
 ---
-
-## 👥 * **[David y Maximiliano]**
+## 👥 * **[David Perez y Maximiliano Villalobos]**
 
 ---
 
